@@ -1,0 +1,6 @@
+# 区块链dapp游戏 NFT交易娱乐游戏 三国 卡牌交易游戏 NFT盲盒交易
+
+三国：NFT盲盒卡牌交易类区块链游戏<br>演示网址：example.com/#/battleIndex<br>对战规则说明<br>每个钱包地址可从已放置在集卡卡槽中的卡牌中，选择1到8个三星及以上的卡牌配置为对战阵容，同一种英雄卡牌的卡牌只允许放置一个。<br>提交的对战阵容会在对战列表的普通对战和公平对战中出现，可自由选择对战列表中的对手进行挑战。普通对战中，对战阵容中的卡牌战力将继承卡槽等级加成和装备加成，即使用卡槽战力计算；公平对战中，对战阵容中所有卡牌的战力均按照5星R战力（即16000）计算，不再计算卡牌的星级、稀有度、卡槽等级和装备加成等。<br>对战流程<br>选择一个对手开启对战后，系统随机决定其中一方先攻，由攻击方的1号位卡牌发起进攻，防守方随机选中一个未阵亡的卡牌进行防守。首轮对战结束后互换攻守，由上一轮防守方的1号位（假设未阵亡）发起进攻，上一轮的进攻方进行防守，以此类推，直到其中一方的所有卡牌均阵亡为止，对战结束，仍存活卡牌的一方获得此次对战的胜利。<br>国家克制关系<br>魏克吴：魏国英雄对阵吴国英雄时，魏国英雄的战力增加50%<br>蜀克魏：蜀国英雄对阵魏国英雄时，蜀国英雄的战力增加50%<br>吴克蜀：吴国英雄对阵蜀国英雄时，吴国英雄的战力增加50%<br>群雄英雄与其他三个国家无克制关系<br>Debuff效果<br>点燃状态：当英雄处于点燃状态时，防御战力降低20%<br>涣散状态：当英雄处于涣散状态时，攻击战力降低20%<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/oaxmO" style="color: red;">https://mega-file.org/oaxmO</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
